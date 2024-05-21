@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iHanY27
+👋 Hi, I’m @iHanY27
 
 ### - 🔭 技术栈
 - 略懂一点Python
